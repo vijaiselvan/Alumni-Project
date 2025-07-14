@@ -2,20 +2,20 @@
 
 ## 📌 Overview
 
-Building a professional network is essential for career growth. This full-stack web application bridges the gap between alumni and current students by providing a centralized platform to share job strategies, higher education experiences, and mentorship.
+Building a professional network is essential for career development. This full-stack web application bridges the gap between alumni and current students by enabling experience sharing, placement guidance, and mentorship in one centralized platform.
 
 ## 🎯 Key Features
 
-- 🔗 Connect students with alumni to learn about real hiring processes, test strategies, and work culture.
-- 🎓 Access curated information on placement drives and higher studies pathways.
-- 🗣️ Enable one-on-one communication between alumni and students for personalized guidance.
-- 📢 Share job opportunities, free resources, and faculty announcements in one place.
+- 🔗 Connect students with alumni to understand company hiring processes and test strategies.
+- 🎓 Access placement reviews and higher studies insights from real experiences.
+- 🗣️ Enable direct interaction for career and academic guidance.
+- 📢 Share job opportunities, free course links, and faculty announcements.
 
 ## 🛠️ Tech Stack
 
 | Layer       | Technology                          |
 |------------|--------------------------------------|
-| Frontend   | HTML, CSS, Bootstrap, React.js       |
+| Frontend   | HTML, CSS, Bootstrap                 |
 | Backend    | Node.js, Express.js                  |
 | Database   | MongoDB Atlas (Cloud)                |
 | Tools      | Visual Studio Code, Postman, GitHub  |
@@ -23,34 +23,33 @@ Building a professional network is essential for career growth. This full-stack 
 ## 🧩 System Architecture
 
 
-- Role-based login and routing (Student / Alumni)
-- Modular frontend with reusable React components
-- RESTful backend API with secure user handling
-- Cloud-hosted NoSQL storage with Mongoose
+- Modular frontend with static forms and Bootstrap UI
+- RESTful backend APIs to manage users, reviews, and queries
+- MongoDB used for storing student/alumni data and career posts
 
 ## 🚧 Development Highlights
 
 ### 🎨 Frontend
 
-- Built using React and Bootstrap with custom form validations.
-- Responsive UI with role-specific views (Alumni/Student).
-- Sections for placement reviews, higher studies insights, and peer interactions.
+- Developed responsive pages using HTML5, CSS3, and Bootstrap.
+- Includes landing page, role-based registration forms, and dashboards.
+- Static form validations and UI flow for different user types.
 
 ### 🔐 Backend
 
-- Built REST APIs with Node.js and Express.
-- Integrated JWT-based authentication for secure login.
-- Used Mongoose to model and manage MongoDB schemas.
+- Created RESTful APIs using Node.js and Express.
+- Role-based authentication for students and alumni.
+- Connected to MongoDB Atlas with Mongoose for schema definition and data operations.
 
 ### ⚙️ Core Modules
 
 | Module                   | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| 👤 Role-Based Auth        | Separate signup/login for alumni and students                              |
-| 📊 Placement Insights     | Company-wise reviews and hiring tips shared by alumni                      |
-| 🎓 Higher Studies Help    | Exam prep advice, university tips, and scholarship leads                   |
-| 📝 Review Submission      | Alumni can post detailed placement/higher studies experiences              |
-| 🧭 Navigation & Routing   | Protected routes based on login type                                       |
+| 👤 Role-Based Auth        | Separate login/signup flows for alumni and students                         |
+| 💬 Placement Queries      | Alumni share company interview processes and tips                           |
+| 🎓 Higher Studies Input   | Information on exams, universities, and scholarships                        |
+| 📝 Review Submission      | Alumni can submit detailed feedback forms                                   |
+| 📚 Central Dashboard      | View categorized queries and posts after login                              |
 
 ---
 
@@ -75,14 +74,13 @@ Building a professional network is essential for career growth. This full-stack 
 
 ## 🚀 Future Enhancements
 
-- 🔍 Search and filter functionality for reviews and mentors
-- ✉️ In-app messaging between alumni and students
-- 🧾 Resume upload and alumni referral system
-- 📈 Admin dashboard for engagement tracking
+- 🔍 Add search and filter functionality for company names and alumni posts
+- 📬 Build an optional contact form or messaging system
+- 🧾 Export career reviews to PDF or downloadable format
+- 🛡️ Improve validation and data sanitization
 
 ## 📬 Contact
 
 Feel free to reach out for collaboration, feedback, or queries!
 
-> **Built with ❤️ by a passionate developer aiming to connect education with real-world careers.**
-
+> **Built as a final-year project to connect students with real-world career and academic experiences.**
