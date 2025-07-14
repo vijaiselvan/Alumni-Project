@@ -39,18 +39,18 @@ APIs are built with Node.js and Express, and data operations are handled using M
 ## 🖼️ Preview Screenshots
 
 <p align="center">
-  <img src="./screenshots/home.png" alt="Home Page" width="300"/>
-  <img src="./screenshots/about.png" alt="About Page" width="300"/>
+  <img src="./Preview Screenshots/Home page.png" alt="Home Page" width="300"/>
+  <img src="./Preview Screenshots/Career Categories Overview.png" alt="About Page" width="300"/>
 </p>
 
 <p align="center">
-  <img src="./screenshots/signup.png" alt="Sign Up Page" width="300"/>
-  <img src="./screenshots/dashboard.png" alt="Dashboard" width="300"/>
+  <img src="./Preview Screenshots/Alumni Sign-Up Form.png" alt="Sign Up Page" width="300"/>
+  <img src="./Preview Screenshots/Role-Based Registration Page.png" alt="Dashboard" width="300"/>
 </p>
 
 <p align="center">
-  <img src="./screenshots/placement.png" alt="Placement Queries" width="300"/>
-  <img src="./screenshots/higher-studies.png" alt="Higher Studies Section" width="300"/>
+  <img src="./Preview Screenshots/Company-wise Review Display.png" alt="Placement Queries" width="300"/>
+  <img src="./Preview Screenshots/Placement Review Input Interface.png" alt="Higher Studies Section" width="300"/>
 </p>
 
 ---
