@@ -83,4 +83,9 @@ Building a professional network is essential for career development. This full-s
 
 Feel free to reach out for collaboration, feedback, or queries!
 
+**Vijai Selvan**  
+📧 vijaiselvanvj@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/vijai-selvan/)
+📂 [Portfolio](https://vijaiselvan.github.io/portfolio/)
+
 > **Built as a final-year project to connect students with real-world career and academic experiences.**
